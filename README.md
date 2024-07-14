@@ -8,7 +8,7 @@ I'm Aizirek, a dedicated and innovative Frontend Developer from Kyrgyzstan, curr
 - 💻 JavaScript / HTML / CSS
 - ⚙️ Python / Django
 
-
+# ADDITIONAL INFORMATION
 - 🌱 I’m currently learning the backend world with Python and Django 
 - 👯 I’m looking to collaborate on on exciting open-source projects 
 - ⚡ Fun fact: "Code is like humor. When you have to explain it, it’s bad." – Cory House 
