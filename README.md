@@ -4,9 +4,10 @@
 I'm Aizirek, a dedicated and innovative Frontend Developer from Kyrgyzstan, currently based in Poland. I specialize in creating seamless user experiences and visually appealing web applications using technologies like JavaScript and React. Proficient in modern web technologies and currently learning Python, I aim to merge creativity with functionality.
 
 # Skills and Experience
-⚛️ REACT 
-💻 JS / HTML / CSS 
-⚙️ PYTHON / DJANGO
+- ⚛️ React
+- 💻 JavaScript / HTML / CSS
+- ⚙️ Python / Django
+
 
 - 🌱 I’m currently learning the backend world with Python and Django 
 - 👯 I’m looking to collaborate on on exciting open-source projects 
