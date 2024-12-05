@@ -1,15 +1,14 @@
 ![ Frontend Developer | Creative Coder ](https://github.com/user-attachments/assets/8d0ec53e-19d7-48cf-a067-dfd17b45702c)
 
 # Aizirek Nuralieva
-I'm Aizirek, a dedicated and innovative Frontend Developer from Kyrgyzstan, currently based in Poland. I specialize in creating seamless user experiences and visually appealing web applications using technologies like JavaScript and React. Proficient in modern web technologies and currently learning Python, I aim to merge creativity with functionality.
+I'm Aizirek, a dedicated and innovative Software Engineer based in Poland. I specialize in building robust and efficient software solutions, with expertise in technologies like JavaScript, React, and NodeJS. Passionate about merging creativity with functionality, I focus on creating seamless user experiences and scalable applications
 
 ## Skills and Experience
 - ⚛️ React
 - 💻 JavaScript / HTML / CSS
-- ⚙️ Python / Django
+- ⚙️ Node.js & Express.js (Backend Development)
 
 ## ADDITIONAL INFORMATION
-- 🌱 I’m currently learning the backend world with Python and Django 
 - 👯 I’m looking to collaborate on on exciting open-source projects 
 - ⚡ Fun fact: "Code is like humor. When you have to explain it, it’s bad." – Cory House 
 
